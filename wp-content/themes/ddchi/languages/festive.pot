@@ -658,7 +658,7 @@ msgstr ""
 #: templates/header/header-four.php:22 templates/header/header-one.php:15
 #: templates/header/header-six.php:15 templates/header/header-three.php:48
 #: templates/header/header-two.php:22
-msgid "Cape Town, South Africa"
+msgid "Copyright DuDiaChi"
 msgstr ""
 
 #: customizer/customizer-options.php:713
@@ -1457,7 +1457,7 @@ msgstr ""
 #, php-format
 msgid ""
 "<div class=\"site-footer-bottom-bar\"><div class=\"site-container\"><div "
-"class=\"site-footer-bottom-bar-left\">Theme: %1$s by %2$s</div><div class="
+"class=\"site-footer-bottom-bar-left\">DuDiaChi Site</div><div class="
 "\"site-footer-bottom-bar-right\">"
 msgstr ""
 
@@ -1504,7 +1504,7 @@ msgstr ""
 #: templates/footer/footer-social.php:50
 #, php-format
 msgid ""
-"</div><div class=\"site-footer-social-copy\">Theme: %1$s by %2$s</div><div "
+"</div><div class=\"site-footer-social-copy\">DuDiaChi Site</div><div "
 "class=\"clearboth\"></div></div>"
 msgstr ""
 
@@ -1516,7 +1516,7 @@ msgstr ""
 #, php-format
 msgid ""
 "<div class=\"site-footer-bottom-bar\"><div class=\"site-container\"><div "
-"class=\"site-footer-bottom-bar-left\">Theme: %1$s by %2$s</div>"
+"class=\"site-footer-bottom-bar-left\">DuDiaChi Site</div>"
 msgstr ""
 
 #: templates/header/header-four.php:58
@@ -1615,7 +1615,7 @@ msgstr ""
 
 #: upgrade/tpl/upgrade-page.php:94
 #, php-format
-msgid "Theme: Ddchi, built by <a href=\"%s\" target=\"_blank\">DuDiaChi</a>"
+msgid ""
 msgstr ""
 
 #: upgrade/tpl/upgrade-page.php:104

@@ -45,7 +45,7 @@ global $woocommerce; ?>
                     <div class="header-meta">
                         
                         <?php if ( get_theme_mod( 'ddchi-set-text-header-add' ) ) : ?>
-                            <span class="header-top-bar-ad"><i class="fa fa-map-marker"></i> <?php echo wp_kses_post( get_theme_mod( 'ddchi-set-text-header-add' ), __( 'Cape Town, South Africa', 'ddchi' ) ); ?></span>
+                            <span class="header-top-bar-ad"><i class="fa fa-map-marker"></i> <?php echo wp_kses_post( get_theme_mod( 'ddchi-set-text-header-add' ), __( 'Copyright DuDiaChi', 'ddchi' ) ); ?></span>
                         <?php endif; ?>
                         
                         <?php if ( get_theme_mod( 'ddchi-set-text-header-phone' ) ) : ?>

@@ -90,9 +90,7 @@
                     </div>
                 </div>
                 
-                <div class="ddchi-upgrade-footer">
-                    <?php wp_kses( printf( __( 'Theme: Ddchi, built by <a href="%s" target="_blank">DuDiaChi</a>', 'ddchi' ) , 'https://sourceweb.com/' ), array( 'a' => array( 'href', 'target' ) ) ); ?>
-                </div>
+
             </div>
             
         </div>

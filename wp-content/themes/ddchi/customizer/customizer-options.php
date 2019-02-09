@@ -704,7 +704,7 @@ function customizer_library_ddchi_options() {
         'label'   => __( 'Address', 'ddchi' ),
         'section' => $section,
         'type'    => 'text',
-        'default' => __( 'Cape Town, South Africa', 'ddchi' )
+        'default' => __( 'Copyright DuDiaChi', 'ddchi' )
     );
     $options['ddchi-upsell-header-text'] = array(
         'id' => 'ddchi-upsell-header-text',
@@ -790,7 +790,7 @@ function customizer_library_ddchi_options() {
         'label'   => __( 'Address', 'ddchi' ),
         'section' => $section,
         'type'    => 'text',
-        'default' => __( 'Cape Town, South Africa', 'ddchi' )
+        'default' => __( 'Copyright DuDiaChi', 'ddchi' )
     );
     $options['ddchi-website-footer-icon'] = array(
         'id' => 'ddchi-website-footer-icon',
