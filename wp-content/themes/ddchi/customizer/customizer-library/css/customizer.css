@@ -1,0 +1,118 @@
+#sub-accordion-section-title_tagline .description.customize-section-description,
+#sub-accordion-section-ddchi-panel-website-section-website .description.customize-section-description,
+#sub-accordion-section-ddchi-panel-website-section-header .description.customize-section-description,
+#sub-accordion-section-ddchi-panel-website-section-slider .description.customize-section-description,
+#sub-accordion-section-ddchi-panel-website-section-single-page .description.customize-section-description,
+#sub-accordion-section-ddchi-panel-website-section-footer .description.customize-section-description {
+    background-color: #e2f1ff;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+    margin: 0 -12px 0 -10px;
+    padding: 15px 15px 16px;
+    font-size: 12px;
+}
+
+#customize-theme-controls #accordion-panel-ddchi-panel-website .accordion-section-title:hover,
+#customize-theme-controls #accordion-panel-ddchi-panel-text .accordion-section-title:hover,
+#customize-theme-controls #accordion-panel-ddchi-panel-font-options .accordion-section-title:hover,
+#customize-theme-controls #accordion-panel-ddchi-panel-layout-colors .accordion-section-title:hover,
+#customize-theme-controls #accordion-section-title_tagline .accordion-section-title:hover,
+#customize-theme-controls #accordion-section-colors .accordion-section-title:hover,
+#customize-theme-controls #accordion-section-ddchi-section-social .accordion-section-title:hover {
+    background-color: #006CC9;
+    color: #FFF;
+}
+#customize-theme-controls #accordion-panel-ddchi-panel-website:hover > .accordion-section-title:after,
+#customize-theme-controls #accordion-panel-ddchi-panel-text:hover > .accordion-section-title:after,
+#customize-theme-controls #accordion-panel-ddchi-panel-font-options:hover > .accordion-section-title:after,
+#customize-theme-controls #accordion-panel-ddchi-panel-layout-colors:hover > .accordion-section-title:after,
+#customize-theme-controls #accordion-section-title_tagline:hover > .accordion-section-title:after,
+#customize-theme-controls #accordion-section-colors:hover > .accordion-section-title:after,
+#customize-theme-controls #accordion-section-ddchi-section-social:hover > .accordion-section-title:after {
+	color: #FFF;
+}
+
+.kaira-upsell {
+    margin-top: 20px;
+    display: none;
+}
+.kaira-upsell b {
+    font-weight: 500;
+    color: #006cc9;
+}
+.kaira-upsell-desc {
+    font-size: 11px;
+    color: rgb(142, 142, 142);
+}
+.ddchi-upgrade-txt {
+    font-size: 11px;
+    line-height: 14px;
+    padding: 5px 0 0;
+}
+#customize-control-ddchi-header-layout .description {
+    font-size: 11px;
+    padding: 2px 0 5px;
+}
+#customize-control-ddchi-header-layout .description b {
+    color: #006CC9;
+}
+
+#customize-control-ddchi-turn-on-snow,
+#customize-control-ddchi-remove-round-corners,
+#customize-control-ddchi-logo-max-width,
+#customize-control-ddchi-set-logo-padding-bottom,
+#customize-control-custom_logo,
+#customize-control-blogdescription,
+#customize-control-ddchi-set-topbar-switch,
+#customize-control-ddchi-remove-nav-shadow,
+#customize-control-ddchi-remove-search,
+#customize-control-ddchi-slider-duration,
+#customize-control-ddchi-page-remove-titlebar,
+#customize-control-ddchi-blog-widget-title-centeralign,
+#customize-control-ddchi-blog-widget-title-style,
+#customize-control-ddchi-set-blog-layout,
+#customize-control-ddchi-blog-search-leftsidebar,
+#customize-control-ddchi-blog-search-full-width,
+#customize-control-ddchi-blog-single-remove-cats,
+#customize-control-ddchi-single-author-block,
+#customize-control-ddchi-cart-icon,
+#customize-control-ddchi-shop-remove-border,
+#customize-control-ddchi-woocommerce-shop-single-leftsidebar,
+#customize-control-ddchi-footer-hide-social,
+#customize-control-ddchi-set-text-header-phone,
+#customize-control-ddchi-set-text-header-add,
+#customize-control-ddchi-website-error-msg,
+#customize-control-ddchi-website-txt-copy,
+#customize-control-ddchi-website-footer-icon,
+#customize-control-ddchi-set-text-footer-custom-icon-left,
+#customize-control-background_color,
+#customize-control-ddchi-boxed-bg-color,
+#customize-control-ddchi-header-font-color,
+#customize-control-ddchi-nav-font-color,
+#customize-control-ddchi-nav-drop-font-color,
+#customize-control-ddchi-slider-bg-color,
+#customize-control-ddchi-page-titlebar-fontcolor,
+#customize-control-ddchi-footer-font-color,
+#customize-control-ddchi-body-font-color,
+#customize-control-ddchi-title-font-size,
+#customize-control-ddchi-tagline-font-size,
+#customize-control-ddchi-social-tripadvisor {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+	padding: 0 0 20px;
+	margin-bottom: 14px;
+}
+#customize-control-ddchi-slider-cats,
+#customize-control-ddchi-slider-style,
+#customize-control-ddchi-slider-style-spacing,
+#customize-control-ddchi-slider-size,
+#customize-control-ddchi-slider-shortcode,
+#customize-control-ddchi-set-blog-cats,
+#customize-control-ddchi-article-content-display,
+#customize-control-ddchi-blog-list-remove-meta,
+#customize-control-ddchi-footer-customize,
+#customize-control-ddchi-footer-custom-cols,
+#customize-control-ddchi-footer-customize-col-1,
+#customize-control-ddchi-footer-heading-font-color {
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
+    padding: 15px 0 0;
+    margin-top: 5px;
+}
