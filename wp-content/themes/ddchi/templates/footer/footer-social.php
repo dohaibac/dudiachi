@@ -45,9 +45,9 @@
 			endif; ?>
 			
         	<div class="site-footer-social-ad">
-        		<i class="fa <?php echo ( get_theme_mod( 'ddchi-website-footer-icon' ) ) ? sanitize_html_class( get_theme_mod( 'ddchi-website-footer-icon' ) ) : sanitize_html_class( 'fa-map-marker' ); ?>"></i> <?php echo wp_kses_post( get_theme_mod( 'ddchi-website-footer-add', 'Copyright DuDiaChi' ) ) ?>
+        		&copy; <?php echo wp_kses_post( get_theme_mod( 'ddchi-website-footer-add', 'Copyright DuDiaChi' ) ) ?>
         	
-            <?php printf( __( '</div><div class="site-footer-social-copy">Theme: %1$s by %2$s</div><div class="clearboth"></div></div>', 'ddchi' ), 'Ddchi', '<a href="https://sourceweb.com/">DuDiaChi</a>' ); ?>
+            <?php printf( __( '</div><div class="site-footer-social-copy"></div><div class="clearboth"></div></div>', 'ddchi' ), 'Ddchi', '<a href="https://sourceweb.com/">DuDiaChi</a>' ); ?>
     </div>
     
 </footer>

@@ -15,7 +15,7 @@
         </div>
     </div>
     
-	<?php printf( __( '<div class="site-footer-bottom-bar"><div class="site-container"><div class="site-footer-bottom-bar-left">Theme: %1$s by %2$s</div>', 'ddchi' ), 'Ddchi', '<a href="https://sourceweb.com/">DuDiaChi</a>' ); ?>
+	<?php printf( __( '<div class="site-footer-bottom-bar"><div class="site-container"><div class="site-footer-bottom-bar-left"></div>', 'ddchi' ), 'Ddchi', '<a href="https://sourceweb.com/">DuDiaChi</a>' ); ?>
             
 	        <div class="site-footer-bottom-bar-right">
 	            <?php wp_nav_menu( array( 'theme_location' => 'ddchi-footer-menu','container' => false, 'fallback_cb' => false, 'depth'  => 1 ) ); ?>

@@ -1,6 +1,6 @@
 <footer id="colophon" class="site-footer site-footer-none" role="contentinfo">
 	
-	<?php printf( __( '<div class="site-footer-bottom-bar"><div class="site-container"><div class="site-footer-bottom-bar-left">Theme: %1$s by %2$s</div><div class="site-footer-bottom-bar-right">', 'ddchi' ), 'Ddchi', '<a href="https://sourceweb.com/">DuDiaChi</a>' ); ?>
+	<?php printf( __( '<div class="site-footer-bottom-bar"><div class="site-container"><div class="site-footer-bottom-bar-left"></div><div class="site-footer-bottom-bar-right">', 'ddchi' ), 'Ddchi', '<a href="https://sourceweb.com/">DuDiaChi</a>' ); ?>
                 
 			<?php wp_nav_menu( array( 'theme_location' => 'ddchi-footer-menu','container' => false, 'fallback_cb' => false, 'depth'  => 1 ) ); ?>
                 
